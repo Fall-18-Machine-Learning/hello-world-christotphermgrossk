@@ -3,3 +3,5 @@
 #Developer: Chris Grosskopf
 
 #Python 3.7
+
+#To run this program, execute it in a terminal following "python"
